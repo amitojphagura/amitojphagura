@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi, I'm Amitoj Phagura
 
-<!--
-**amitojphagura/amitojphagura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineering student focused on embedded systems, control, and hardware design. My work primarily involves building complete systems that integrate electronics, firmware, and mechanical components.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Embedded systems
+- PCB design
+- Sensor fusion and state estimation
+- Aerospace systems
+- Quantitative finance and financial modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+**ATLAS — Portable Attitude Estimation Platform**
+
+An embedded system built around the ESP32 for real-time orientation estimation.
+
+Features:
+- 9-DOF IMU sensor integration
+- Sensor calibration routines
+- Complementary filter implementation
+- Discrete-time Kalman filter upgrade
+- ≥100 Hz sensor fusion loop
+- UART / USB data output
+- On-board SD logging
+
+Technologies used:
+- C / C++
+- ESP32
+- KiCad
+- MATLAB
+- Sensor fusion algorithms
+
+## Portfolio Sections
+My projects are organized into several categories:
+
+Mechanical  
+CAD design, structural components, and physical systems.
+
+Electrical  
+PCB design, power systems, embedded hardware, and sensor integration.
+
+Software  
+Firmware, embedded algorithms, simulation, and analysis.
+
+Finance  
+Quantitative analysis and financial modeling projects.
+
+## Tools and Technologies
+C / C++  
+Python  
+MATLAB  
+KiCad  
+Onshape / CAD  
+Git
+
+## Current Focus
+- Advanced sensor fusion
+- Embedded firmware architecture
+- Custom PCB design
+- Control systems and estimation
+  
